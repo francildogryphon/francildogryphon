@@ -18,14 +18,14 @@
 
 <!-- Contato -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/francildoalves/" target="_blank">
-    <img src="https://img.shields.io/badge/in/francildoalves-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/francildogryphon/" target="_blank">
+    <img src="https://img.shields.io/badge/in/francildogryphon-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/francildoalves/" target="_blank">
-    <img src="https://img.shields.io/badge/@francildoalves-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf" alt="Instagram">
+  <a href="https://www.instagram.com/francildogryphon/" target="_blank">
+    <img src="https://img.shields.io/badge/@francildogryphon-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf" alt="Instagram">
   </a>
-  <a href="https://www.youtube.com/@francildoalves" target="_blank">
-    <img src="https://img.shields.io/badge/@francildoalves-fff?style=flat&logo=youtube&logoColor=FFFFFF&labelColor=8b7bdf" alt="YouTube">
+  <a href="https://www.youtube.com/@francildogryphon" target="_blank">
+    <img src="https://img.shields.io/badge/@francildogryphon-fff?style=flat&logo=youtube&logoColor=FFFFFF&labelColor=8b7bdf" alt="YouTube">
   </a>
   <a href="https://www.dio.me/users/francildo" target="_blank">
     <img src="https://img.shields.io/badge/dio/francildo-fff?style=flat&logo=Google-Chrome&logoColor=FFFFFF&labelColor=8b7bdf" alt="DIO">
@@ -40,15 +40,15 @@
 <!-- Estatísticas do GitHub -->
 <div align="center">  
   <!-- Estatístivas -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=francildoalves&locale=pt-br&show_icons=true&count_private=true&&rank_icon=github&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=francildogryphon&locale=pt-br&show_icons=true&count_private=true&&rank_icon=github&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   <!-- Linguagens mais Usadas -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francildoalves&locale=pt-br&layout=compact&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francildogryphon&locale=pt-br&layout=compact&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
   <!-- Gráfico de Contribuições -->
-  <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=francildoalves&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff&point=0a855c&area=true&hide_border=true&line=9d00ff" alt="FranCILDO's github activity graph" />
+  <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=francildogryphon&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff&point=0a855c&area=true&hide_border=true&line=9d00ff" alt="FranCILDO's github activity graph" />
 </div>
 
 
-![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
+![lineBar](https://github.com/francildogryphon/francildogryphon/blob/main/assets/img/barra_collor.png)
 
 
 <!-- Sobre -->
