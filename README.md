@@ -185,7 +185,6 @@
 ---
 
 <div align="center">
-	<img alt="Profile views" src="https://komarev.com/ghpvc/?username=francildogryphon&color=green" /> 
 	<img alt="Stars" src="https://img.shields.io/github/stars/francildogryphon" />
 	<img alt="Followers" src="https://img.shields.io/github/followers/francildogryphon?style=social" />
 </div>
@@ -195,11 +194,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake.svg)
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- ![Snake animation](https://github.com/francildogryphon/francildogryphon/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![snake gif](https://github.com/francildogryphon/francildogryphon/blob/output/github-contribution-grid-snake.svg) -->
