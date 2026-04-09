@@ -30,9 +30,6 @@
   <a href="https://www.dio.me/users/francildo" target="_blank">
     <img src="https://img.shields.io/badge/dio/francildo-fff?style=flat&logo=Google-Chrome&logoColor=FFFFFF&labelColor=8b7bdf" alt="DIO">
   </a>
- <!-- <a href="mailto:francildo@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/francildo@outlook.com-fff?style=flat&logo=Gmail&logoColor=FFFFFF&labelColor=8b7bdf" alt="E-Mail">
-  </a> -->
 </div>
 
 
@@ -68,7 +65,7 @@
 #
 
 
-![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
+![lineBar](https://github.com/francildogryphon/francildogryphon/blob/main/assets/img/barra_collor.png)
 
 
 <!-- Áreas de interesse -->
@@ -110,7 +107,7 @@
 ![Gemini](https://img.shields.io/badge/gemini-000?style=for-the-badge&logo=gemini)
 
 
-![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
+![lineBar](https://github.com/francildogryphon/francildogryphon/blob/main/assets/img/barra_collor.png)
 
 
 ## 🏅 Certificações
@@ -127,7 +124,7 @@
 
 <!-- código comentado
 
-![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
+![lineBar](https://github.com/francildogryphon/francildogryphon/blob/main/assets/img/barra_collor.png)
 
 
 
@@ -158,17 +155,15 @@
 <div align="left">
 	<p><strong>Ficou interessado? Conecte-se comigo no LinkedIn!</strong></p>
 	<p>
-	<a href="mailto:francildo@outlook.com">
+	<a href="mailto:francildogryphon@gmail.com">
 	<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 	</a>
-	<a href="https://www.linkedin.com/in/francildoalves"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn"></a>
-	<a href="https://www.dio.me/users/francildo"><img width="40px" src="./assets/icons/favicon.ico" alt="DIO"></a>
-	<a href="https://app.rocketseat.com.br/me/francildoalves"><img width="40px" src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" alt="Rocketseat"></a>
-      	<!-- <a href="https://www.youtube.com/@francildoalves/videos"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
+	<a href="https://www.linkedin.com/in/francildogryphon"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn"></a>
+	<a href="https://www.dio.me/users/francildo"><img width="40px" src="./assets/icons/favicon.ico" alt="DIO"></a>	
 </div>
 
 
-![lineBar](https://github.com/francildoalves/francildoalves/blob/main/assets/img/barra_collor.png)
+![lineBar](https://github.com/francildogryphon/francildogryphon/blob/main/assets/img/barra_collor.png)
 
 
 <details align="left">
@@ -190,25 +185,25 @@
 ---
 
 <div align="center">
-	<img alt="Profile views" src="https://komarev.com/ghpvc/?username=francildoalves&color=green" /> 
-	<img alt="Stars" src="https://img.shields.io/github/stars/francildoalves" />
-	<img alt="Followers" src="https://img.shields.io/github/followers/francildoalves?style=social" />
+	<img alt="Profile views" src="https://komarev.com/ghpvc/?username=francildogryphon&color=green" /> 
+	<img alt="Stars" src="https://img.shields.io/github/stars/francildogryphon" />
+	<img alt="Followers" src="https://img.shields.io/github/followers/francildogryphon?style=social" />
 </div>
 
 
 <!-- Cobrinha -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake.svg)
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/francildoalves/francildoalves/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- ![Snake animation](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
-<!-- ![snake gif](https://github.com/francildoalves/francildoalves/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/francildogryphon/francildogryphon/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/francildogryphon/francildogryphon/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- 
