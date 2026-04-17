@@ -70,7 +70,7 @@
 
 <!-- Áreas de interesse -->
 ## 🤓 Áreas de Interesse
-- <img src="https://github.com/user-attachments/assets/2aa2a018-b104-485b-9a98-4e80eb1f1b82" alt="Locked with Key" width="25" height="25" /> Automação e RPA
+- <img src="https://github.com/user-attachments/assets/2aa2a018-b104-485b-9a98-4e80eb1f1b82" alt="Locked with Key" width="25" height="25" />  Agentes de IA e automações.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" /> Sistemas Linux
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" /> Green Software  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Bar Chart" width="25" height="25" /> Análise de Dados  
