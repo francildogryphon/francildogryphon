@@ -1,5 +1,5 @@
 <!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Gryphon;Trabalho+como++Analista+de+Sistemas.;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves+Gryphon;Trabalho+como++Analista+de+Sistemas.;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
 <!-- Imagem principal -->
 <div align="center">
@@ -19,7 +19,7 @@
 <!-- Contato -->
 <div align="center">
   <a href="https://github.com/francildogryphon/" target="_blank">
-    <img src="https://img.shields.io/badge/in/francildogryphon-fff?style=flat&logo=github&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/francildogryphon-fff?style=flat&logo=github&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
   </a>
   <a href="https://www.linkedin.com/in/francildogryphon/" target="_blank">
     <img src="https://img.shields.io/badge/in/francildogryphon-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
@@ -30,8 +30,8 @@
   <a href="https://www.youtube.com/@francildogryphon" target="_blank">
     <img src="https://img.shields.io/badge/@francildogryphon-fff?style=flat&logo=youtube&logoColor=FFFFFF&labelColor=8b7bdf" alt="YouTube">
   </a>
-  <a href="https://www.dio.me/users/francildo" target="_blank">
-    <img src="https://img.shields.io/badge/dio/francildo-fff?style=flat&logo=Google-Chrome&logoColor=FFFFFF&labelColor=8b7bdf" alt="DIO">
+  <a href="https://www.francildogryphon.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/site-fff?style=flat&logo=Google-Chrome&logoColor=FFFFFF&labelColor=8b7bdf" alt="DIO">
   </a>
 </div>
 
