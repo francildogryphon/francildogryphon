@@ -18,6 +18,9 @@
 
 <!-- Contato -->
 <div align="center">
+  <a href="https://github.com/francildogryphon/" target="_blank">
+    <img src="https://img.shields.io/badge/in/francildogryphon-fff?style=flat&logo=github&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
+  </a>
   <a href="https://www.linkedin.com/in/francildogryphon/" target="_blank">
     <img src="https://img.shields.io/badge/in/francildogryphon-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf" alt="LinkedIn">
   </a>
