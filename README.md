@@ -89,9 +89,7 @@
 ### 🎯 Tecnologias que me interesso
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
-![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
 ![Shell Script](https://img.shields.io/badge/ShellScript-000?style=for-the-badge&logo=shell)
-![RUAT](https://img.shields.io/badge/rust-000?style=for-the-badge&logo=rust)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=E94D5F)
@@ -100,14 +98,9 @@
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes)
-![NGINX](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx)
-![redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
-![redis](https://img.shields.io/badge/traefik-000?style=for-the-badge&logo=traefik)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000?style=for-the-badge&logo=openai)
 ![MS-Dos](https://img.shields.io/badge/msdos-000?style=for-the-badge&logo=ms-dos)
-![Flet](https://img.shields.io/badge/flet-000?style=for-the-badge&logo=flet)
-![Gemini](https://img.shields.io/badge/gemini-000?style=for-the-badge&logo=gemini)
+![IA](https://img.shields.io/badge/ai-000?style=for-the-badge&logo=ai)
 
 
 ![lineBar](https://github.com/francildogryphon/francildogryphon/blob/main/assets/img/barra_collor.png)
