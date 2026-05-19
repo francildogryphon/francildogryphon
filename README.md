@@ -186,13 +186,6 @@
 </div>
 
 
-<!-- Cobrinha -->
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/francildogryphon/francildogryphon/output/github-contribution-grid-snake.svg)
-
-
-<!-- ![Snake animation](https://github.com/francildogryphon/francildogryphon/blob/output/github-contribution-grid-snake.svg) -->
-<!-- ![snake gif](https://github.com/francildogryphon/francildogryphon/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- 
@@ -211,7 +204,7 @@
 ```
 
 📦 projeto 
-├── 📁 public 
+├── 💼 public 
 │ └── 📁 assets 
 │ └── 📁 imgs 
 ├── 📁 src │ 
