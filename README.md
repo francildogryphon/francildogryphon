@@ -9,7 +9,7 @@
 
 <!-- Breve descrição -->
 <h3 align="center">
-  Analista de Sistemas • Soluções com IA • Foco em Sustentabilidade
+  IT Analyst • IA Builder • Green IT
 </h3>
 
 <h3 align="center">
