@@ -1,5 +1,5 @@
 <!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+FranCILDO+Alves+Gryphon;Trabalho+como++Analista+de+Sistemas.;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+Francildo+Soares+Alves+Gryphon;Trabalho+como++Analista+de+Sistemas.;Seja+bem-vindo!+😄)](https://git.io/typing-svg) 
 
 <!-- Imagem principal -->
 <div align="center">
@@ -44,7 +44,7 @@
   <!-- Linguagens mais Usadas -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francildogryphon&locale=pt-br&layout=compact&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
   <!-- Gráfico de Contribuições -->
-  <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=francildogryphon&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff&point=0a855c&area=true&hide_border=true&line=9d00ff" alt="FranCILDO's github activity graph" />
+  <img width="100%" height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=francildogryphon&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff&point=0a855c&area=true&hide_border=true&line=9d00ff" alt="Francildo's github activity graph" />
 </div>
 
 
@@ -54,7 +54,7 @@
 <!-- Sobre -->
 ## `>_ Sobre Mim`
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Francildo Soares Alves, profissionalmente conhecido como FranCILDO Alves Gryphon. Trabalho como **Analista de Sistemas** em Fortaleza, Ceará, Brasil. Sou marido, pai. Entusiasta de tecnologia e sustentabilidade. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Francildo Soares Alves, profissionalmente conhecido como Francildo Soares Alves Gryphon. Trabalho como **Analista de Sistemas** em Fortaleza, Ceará, Brasil. Sou marido, pai. Entusiasta de tecnologia e sustentabilidade. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Sou um espírito tendo uma experiência humana. Gosto de pensar em integrar minha experiência em TI com os princípios de **Green Software** e **Sustentabilidade 4.0**, **Biomimética** e contribuir para um mundo mais justo e em harmonia com o planeta.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas principais áreas de foco incluem **Inteligência Artificial**, **Automação**, e **Sustentabilidade 4.0**. Saiba mais em [www.francildogryphon.com.br](https://www.francildogryphon.com.br)<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Nos momentos de folga, recarrego as energias pedalando e correndo.<br />
